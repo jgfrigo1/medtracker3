@@ -1,0 +1,5 @@
+
+{
+  "name": "Health Tracker Diario",
+  "description": "Una aplicación para registrar y visualizar datos de salud por hora. Permite gestionar una lista de medicamentos y aplicar patrones de medicación estándar. Todos los datos se almacenan localmente en su navegador."
+}
